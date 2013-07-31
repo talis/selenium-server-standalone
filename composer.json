@@ -1,0 +1,10 @@
+{
+  "name": "talis/selenium-server-standalone",
+  "type": "library",
+  "homepage": "http://docs.seleniumhq.org/",
+  "authors": [{
+    "name": "OpenQA",
+    "email": ""
+  }]
+}
+
